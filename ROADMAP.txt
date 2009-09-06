@@ -1,0 +1,9 @@
+### TO-FIX
+* Focus da correggere tra bottoni e linea di inserimento del testo
+* Click sui link
+* Gestione scroll bar
+
+### TO-IMPLEMENT
+* Trasferimento file
+* P2P
+* Messaggi privati
